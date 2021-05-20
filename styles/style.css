@@ -1,0 +1,17 @@
+p {
+    font-size: 48px;
+    color: pink !important;
+}
+
+p.blue-text {
+    color: blue;
+}
+
+p{
+    color: green;
+}
+
+p#large-paragraph{
+    font-size: 128px;
+}
+
